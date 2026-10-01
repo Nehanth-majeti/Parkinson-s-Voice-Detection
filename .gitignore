@@ -1,0 +1,17 @@
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# Python / backend
+backend/__pycache__/
+backend/.venv/
+*.pyc
+*.pyo
+*.pyd
+
+# OS/editor
+.DS_Store
+.vscode/
+
+# Logs
+npm-debug.log*
